@@ -40,10 +40,12 @@ Number Management
 
 
 Contact Details
+
 ![cont](https://github.com/shtewari23/Call-App/assets/80051211/196c6960-a336-43b7-971f-679dc0ea6669)
 
 
 New Contact 
+
 ![newContact](https://github.com/shtewari23/Call-App/assets/80051211/ee1a420d-960f-4571-b6ff-6ed4c2d159b6)
 
 
