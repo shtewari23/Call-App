@@ -26,28 +26,28 @@ npx expo start
 ## Screenshots
 Dial Pad
 
-![dase](https://github.com/shtewari23/Call-App/assets/80051211/e0d8b1e0-c28f-459d-95a8-374359b149c0)
+![d](https://github.com/shtewari23/Call-App/assets/80051211/51cb100f-b4e5-45eb-91ec-2f172a349966)
 
 
 Outgoing Call
 
 
-![out](https://github.com/shtewari23/Call-App/assets/80051211/83af762f-e002-4ccb-96c1-f72e860f7638)
+![o](https://github.com/shtewari23/Call-App/assets/80051211/3b0c7b32-9b98-4b31-8f0c-511e9aceb8b3)
 
 
 Number Management
 
-![wq](https://github.com/shtewari23/Call-App/assets/80051211/3bc658b2-9ccf-406d-8d31-e5e65e69797a)
+![e](https://github.com/shtewari23/Call-App/assets/80051211/30743729-bc98-4f82-986c-ae1fdebfc5e0)
 
 
 Contact Details
 
-![cont](https://github.com/shtewari23/Call-App/assets/80051211/196c6960-a336-43b7-971f-679dc0ea6669)
+![c](https://github.com/shtewari23/Call-App/assets/80051211/39f68b16-3b8f-4754-8c8d-44cfd29156a1)
 
 
 New Contact 
 
-![newContact](https://github.com/shtewari23/Call-App/assets/80051211/ee1a420d-960f-4571-b6ff-6ed4c2d159b6)
+![f](https://github.com/shtewari23/Call-App/assets/80051211/24e9a2b9-8076-40d7-9355-7d1c2d0b9c1a)
 
 
 
