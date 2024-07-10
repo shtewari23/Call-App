@@ -25,13 +25,24 @@ npx expo start
 
 ## Screenshots
 Dial Pad
+
 ![dase](https://github.com/shtewari23/Call-App/assets/80051211/e0d8b1e0-c28f-459d-95a8-374359b149c0)
+
+
 Outgoing Call
+
+
 ![out](https://github.com/shtewari23/Call-App/assets/80051211/83af762f-e002-4ccb-96c1-f72e860f7638)
+
+
 Number Management
 ![wq](https://github.com/shtewari23/Call-App/assets/80051211/3bc658b2-9ccf-406d-8d31-e5e65e69797a)
+
+
 Contact Details
 ![cont](https://github.com/shtewari23/Call-App/assets/80051211/196c6960-a336-43b7-971f-679dc0ea6669)
+
+
 New Contact 
 ![newContact](https://github.com/shtewari23/Call-App/assets/80051211/ee1a420d-960f-4571-b6ff-6ed4c2d159b6)
 
